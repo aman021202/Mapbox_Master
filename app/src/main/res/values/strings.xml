@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GHA-M</string>
+    <string name="access_token">pk.eyJ1IjoidXR0aWsiLCJhIjoiY2xnNWxuemprMDQyaTNubnh0dGc4aDUzYiJ9.Z0FUEpj9EJ1Bkiuj7ak7RA</string>
+    <string name="start_navigating">Start Navigating</string>
+</resources>
